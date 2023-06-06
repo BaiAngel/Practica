@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467119904211",
+    "project_id": "extraorinaria",
+    "storage_bucket": "extraorinaria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467119904211:android:4ce712236fca76db224b26",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467119904211-a6pkgo452iboh30ie93ff4vj9hrmcaa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiEG7mBM401KG69rH_04XPV1x-SlBkr1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467119904211-a6pkgo452iboh30ie93ff4vj9hrmcaa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
